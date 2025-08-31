@@ -1,2 +1,2 @@
-web reporterです誰か使ってね
-需要は多分あります
+web reporterです
+
